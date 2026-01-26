@@ -1,4 +1,6 @@
 # AI_and_Drug_Discovery_Course_2026
+Assignment title: QSAR data curation
+#
 Selected target name: RAD51
 # 
 Number of bioactivity records: 1089
